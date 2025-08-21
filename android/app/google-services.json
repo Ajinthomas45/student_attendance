@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026857684696",
+    "project_id": "student-attendance-b6f00",
+    "storage_bucket": "student-attendance-b6f00.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026857684696:android:3bf9c7f57a52d4215c11ad",
+        "android_client_info": {
+          "package_name": "com.example.student_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQiSVKwwQtpyWvVCYEksh_df8Jbnn2g9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
